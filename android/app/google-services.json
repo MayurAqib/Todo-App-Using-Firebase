@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "379321968808",
+    "project_id": "dream-fashion-store",
+    "storage_bucket": "dream-fashion-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379321968808:android:c4d998039684aebc447a9d",
+        "android_client_info": {
+          "package_name": "com.example.dream_fashion_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDFjghP4SY_dtmVBWm7WIA1m53Hi8hUFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379321968808:android:e7a1d0a32c67ca1f447a9d",
+        "android_client_info": {
+          "package_name": "com.example.firebase_evrything"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDFjghP4SY_dtmVBWm7WIA1m53Hi8hUFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379321968808:android:85d06e556609c34b447a9d",
+        "android_client_info": {
+          "package_name": "com.example.to_do_app_using_rest_api"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDFjghP4SY_dtmVBWm7WIA1m53Hi8hUFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
